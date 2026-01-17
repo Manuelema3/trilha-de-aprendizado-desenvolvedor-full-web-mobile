@@ -132,7 +132,7 @@ Criar uma aplicação que permita cadastro/login de usuários, criação e geren
 Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o frontend web e finalize com a versão mobile. Versione tudo no GitHub e escreva um README claro para cada serviço.
 ```
 
-# Trilha DIO recomendada
+# Trilha DIO_recomendada
 - Essas trilhas são esenciais pois combinam fundamentos de Python para backend, práticas de frontend com React e exercícios práticos que se alinham diretamente ao roadmap e ao projeto de portfólio.
 
 ## Trilha sugerida
@@ -144,11 +144,6 @@ Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o f
 - Seguir o cronograma semanal deste roadmap.
 - Priorizar entregáveis e publicar progresso no GitHub.
 
-Boas práticas de estudo
-Priorize consistência: 12 horas semanais distribuídas em blocos curtos.
-Faça commits frequentes e escreva bons mensagens de commit.
-Documente decisões técnicas no README de cada módulo.
-Busque revisão de código com colegas ou mentores.
-Registre progresso e dificuldades para ajustar o plano quando necessário.
+
 
   

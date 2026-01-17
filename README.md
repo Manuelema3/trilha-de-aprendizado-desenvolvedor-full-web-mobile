@@ -136,23 +136,39 @@ Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o f
 - Essas trilhas são esenciais pois combinam fundamentos de Python para backend, práticas de frontend com React e exercícios práticos que se alinham diretamente ao roadmap e ao projeto de portfólio.
 
 ## Trilha sugerida
+```
 - Bootcamp Python Developer
 - Bootcamp Fullstack Developer
+```
 
 ## Cursos
-
+<img width="1360" height="524" alt="Captura de Tela 2026-01-16 às 22 29 34" src="https://github.com/user-attachments/assets/329f1457-b5b9-4867-bbe5-3f5c7f57f838" />
 
 ## Próximos passos
 - Inscrever-se nas trilhas indicadas.
 - Seguir o cronograma semanal deste roadmap.
 - Priorizar entregáveis e publicar progresso no GitHub.
+- Treinar com o copilot possíveis respostas numa entrevistas, para diferentes perguntas. segue um exemplo:
+```
+Pergunta 1: "Você já trabalhou em algum projeto prático?"
+Como Responder: Explique seu projeto de portfólio, destacando desafios e soluções.
 
+Pergunta 2: "Qual linguagem você domina melhor?"
+Como Responder: Cite Python "caso tenha esclhido pythonndurante essa trilha" como base, explique que está aprendendo JavaScript/React e mostre entusiasmo.
 
+Pergunta 3: "Como você resolve problemas quando trava em algo?"
+Como Responder: Diga que pesquisa documentação, usa comunidades online e testa soluções práticas.
 
-  
-Boas práticas de estudo
-Priorize consistência: 12 horas semanais distribuídas em blocos curtos.
-Faça commits frequentes e escreva boas mensagens de commit.
-Documente decisões técnicas no README de cada módulo.
-Busque revisão de código com colegas ou mentores.
-Registre progresso e dificuldades para ajustar o plano quando necessário.
+Pergunta 4: "Você sabe trabalhar em equipe?"
+Como Responder: Mostre que gosta de colaborar, já usou GitHub e entende importância da comunicação.
+
+Pergunta 5: "Por que escolheu desenvolvimento Full Stack?"
+Como Responder: Explique que gosta de unir pessoas e código, criando soluções completas e úteis.
+``` 
+
+### Boas práticas de estudo
+- Priorize consistência: 12 horas semanais distribuídas em blocos curtos.
+- Faça commits frequentes e escreva boas mensagens de commit.
+- Documente decisões técnicas no README de cada módulo.
+- Busque revisão de código com colegas ou mentores.
+- Registre progresso e dificuldades para ajustar o plano quando necessário.

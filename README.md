@@ -137,8 +137,8 @@ Semana 23–24
 
 ## Trilha sugerida
 ```
-- Bootcamp Python Developer
-- Bootcamp Fullstack Developer
+- Bootcamp Python Developer (Plataforma DIO)
+- Bootcamp Fullstack Developer (Plataforma DIO)
 ```
 
 ## Cursos

@@ -85,9 +85,9 @@ Semana 15–16
 ### Mês 5–6/Portfólio e preparação
 ```
 Semana 17–18
-Tópicos: React Native básico — componentes, navegação, UI.
-Atividades: criar app mobile simples (lista de tarefas).
-Meta: app mobile com interface básica.
+- Tópicos: React Native básico — componentes, navegação, UI.
+- Atividades: criar app mobile simples (lista de tarefas).
+- Meta: app mobile com interface básica.
 
 Semana 19–20
 - Tópicos: Autenticação e persistência — JWT, sessions; testes.
@@ -110,7 +110,7 @@ Semana 23–24
 
 ### O que fazer  
 ```
-Criar uma aplicação que permita cadastro/login de usuários, criação e gerenciamento de tarefas, acessível via web e mobile.
+- Criar uma aplicação que permita cadastro/login de usuários, criação e gerenciamento de tarefas, acessível via web e mobile.
 ```
 
 ### Entregáveis
@@ -129,7 +129,7 @@ Criar uma aplicação que permita cadastro/login de usuários, criação e geren
 
 ### Dica prática
 ```
-Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o frontend web e finalize com a versão mobile. Versione tudo no GitHub e escreva um README claro para cada serviço.
+- Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o frontend web e finalize com a versão mobile. Versione tudo no GitHub e escreva um README claro para cada serviço.
 ```
 
 # Trilha DIO_recomendada
@@ -150,20 +150,20 @@ Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o f
 - Priorizar entregáveis e publicar progresso no GitHub.
 - Treinar com o copilot possíveis respostas numa entrevistas, para diferentes perguntas. segue um exemplo:
 ```
-Pergunta 1: "Você já trabalhou em algum projeto prático?"
-Como Responder: Explique seu projeto de portfólio, destacando desafios e soluções.
+- Pergunta 1: "Você já trabalhou em algum projeto prático?"
+- Como Responder: Explique seu projeto de portfólio, destacando desafios e soluções.
 
-Pergunta 2: "Qual linguagem você domina melhor?"
-Como Responder: Cite Python "caso tenha esclhido pythonndurante essa trilha" como base, explique que está aprendendo JavaScript/React e mostre entusiasmo.
+- Pergunta 2: "Qual linguagem você domina melhor?"
+- Como Responder: Cite Python "caso tenha esclhido pythonndurante essa trilha" como base, explique que está aprendendo JavaScript/React e mostre entusiasmo.
 
-Pergunta 3: "Como você resolve problemas quando trava em algo?"
-Como Responder: Diga que pesquisa documentação, usa comunidades online e testa soluções práticas.
+- Pergunta 3: "Como você resolve problemas quando trava em algo?"
+- Como Responder: Diga que pesquisa documentação, usa comunidades online e testa soluções práticas.
 
-Pergunta 4: "Você sabe trabalhar em equipe?"
-Como Responder: Mostre que gosta de colaborar, já usou GitHub e entende importância da comunicação.
+- Pergunta 4: "Você sabe trabalhar em equipe?"
+- Como Responder: Mostre que gosta de colaborar, já usou GitHub e entende importância da comunicação.
 
-Pergunta 5: "Por que escolheu desenvolvimento Full Stack?"
-Como Responder: Explique que gosta de unir pessoas e código, criando soluções completas e úteis.
+- Pergunta 5: "Por que escolheu desenvolvimento Full Stack?"
+- Como Responder: Explique que gosta de unir pessoas e código, criando soluções completas e úteis.
 ``` 
 
 ### Boas práticas de estudo

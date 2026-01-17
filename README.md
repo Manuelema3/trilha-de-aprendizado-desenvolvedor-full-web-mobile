@@ -139,6 +139,9 @@ Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o f
 - Bootcamp Python Developer
 - Bootcamp Fullstack Developer
 
+## Cursos
+
+
 ## Próximos passos
 - Inscrever-se nas trilhas indicadas.
 - Seguir o cronograma semanal deste roadmap.
@@ -147,3 +150,9 @@ Comece pelo backend (modelos, endpoints e autenticação), depois desenvolva o f
 
 
   
+Boas práticas de estudo
+Priorize consistência: 12 horas semanais distribuídas em blocos curtos.
+Faça commits frequentes e escreva boas mensagens de commit.
+Documente decisões técnicas no README de cada módulo.
+Busque revisão de código com colegas ou mentores.
+Registre progresso e dificuldades para ajustar o plano quando necessário.

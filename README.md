@@ -21,8 +21,9 @@ O trabalho do dia a dia de um(a) Desenvolvedor(a) Full Stack envolve:
 ## Core skills (essenciais)
 - Lógica de programação e algoritmos
 - HTML, CSS, JavaScript
+- TypeScript
 - Python (Flask ou Django) para quem prefere a linguagem Python
-- React (web) e React Native (mobile)
+- React (web) e React Native (mobile) / Expo Router
 
 ## Ferramentas e tecnologias
 - Git / GitHub
